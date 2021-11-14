@@ -19,7 +19,7 @@ Developed for KTH Racketklubb.
 
 ### Usage
 
-Given a list of emails of people who got spots for a session, `email_l`, call the function `send_message_receivers`, which will format the email and send to all receivers.
+Given a list of emails of people who got spots for a session, `email_l`, call the function `send_message_receivers`, which will format the email and send confirmation to all receivers.
 
 ```
 send_message_receivers(
