@@ -39,6 +39,7 @@ send_message_receivers(
 - Executable version
 - More reasonable algorithm to allocate spots
 - Information for the admin that if everyone got at least one spot
+- BCC
 
 ## Reminder
 
